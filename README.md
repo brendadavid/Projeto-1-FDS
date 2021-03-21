@@ -13,10 +13,7 @@ A equipe deve definir quem será o líder do projeto. Cabe ao líder criar o esq
 As tarefas de cada um devem ser definidas de comum acordo. 
 Cada integrante da equipe deve trabalhar em “branches” separados para cada tarefa que lhe couber fazendo o respectivo “merge” na medida em que cada tarefa ficar pronta.
 
-Líder do Projeto: Brenda 
-
-VeiculoPassageiros: Victória
-
-VeiculoPasseio: Arthur
-
-VeiculoUtilitario: Juliano
+- Líder do Projeto: Brenda 
+- VeiculoPassageiros: Victória
+- VeiculoPasseio: Arthur
+- VeiculoUtilitario: Juliano
