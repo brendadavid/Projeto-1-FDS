@@ -3,8 +3,6 @@ Projeto para praticar a colaboração em projetos fechados com uma equipe pequen
 
 Desenvolvendo um projeto com uma equipe pequena
 
-O objetivo deste exercício é praticar a colaboração em um projeto fechado com equipe pequena.
-
 Cada equipe, de 2 a 4 integrantes deverá desenvolver um sistema capaz de exibir a relação de veículos a venda em uma determinada loja.
 A interface do sistema pode ser “modo texto”. 
 O menu deve oferecer quatro opções de consulta: por placa, por marca, por ano ou por tipo (passeio, utilitário, passageiros).
